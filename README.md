@@ -23,6 +23,13 @@ No, this developer account was created and is directly managed by me. I am respo
 
 ## Your app's core functionality
 > Does your app function differently based on a user's geolocation or language? If yes, why? *
+
+Type 1
+```
+ Our app, [App Name], is designed to be accessible and enjoyable for users from all over the world. While the app is currently available in English language, we understand that a diverse range of users will be accessing it.
+```
+
+Type 2 :
 ```
 Yes, our app 'Your App Name' functions differently based on a user's geolocation and language. Here's why:
 
