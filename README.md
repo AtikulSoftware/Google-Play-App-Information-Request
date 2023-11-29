@@ -17,7 +17,7 @@ Enter Your Developer Name
 
 > Did somebody register this developer account on your behalf? If so, please explain why. *
 ```
-No, this developer account was created and is managed directly by us. Our team controls all the aspects of this account, from app development to its submission, as well as the management of updates and user feedback. We believe in maintaining complete transparency and direct management over all processes to ensure our apps meet the highest standards of quality, security, and user satisfaction.
+No, this developer account was created and is directly managed by me. I am responsible for all aspects, including app development, submission, updates, and handling user feedback. I believe in maintaining complete transparency and take direct control over all processes to ensure that my apps consistently meet the highest standards of quality, security, and user satisfaction.
 ```
 <br>
 
