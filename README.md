@@ -1,4 +1,7 @@
-<H1 align='center'>Google Play App Information Request</H1> <br><br>
+<h1 align= 'center'><a href="https://support.google.com/googleplay/android-developer/contact/play_information_request">Google Play App Information Request</a></h1> <be>
+<h4 align= 'center'><a href="https://support.google.com/googleplay/android-developer/contact/play_information_request">Link (Click Here)</a></h4>
+
+
 
 > Developer email address *
 ```
