@@ -27,11 +27,9 @@ No, this developer account was created and is directly managed by me. I am respo
 Type 1:
 ```
 Geolocation-Based Functionality:
-
 My app maintains a consistent experience for users across all geolocations. We do not implement any changes or features that vary based on a user's location. The app's functionality remains the same, irrespective of the user's geographical location.
 
 Language-Based Functionality:
-
 Similarly, our app offers a uniform experience for all users, regardless of language. It does not exhibit variations or changes in functionality based on the user's language settings. The app's interface, content, and features remain constant for users in all language preferences.
 
 We have intentionally designed our app to provide a standardized and consistent experience for all users globally.
