@@ -41,12 +41,20 @@ In both cases, we prioritize user privacy and security by adhering to Google's p
 - [ ] No    [we have not uploaded all necessary Proof of Permission.]
 - [ ] No third party intellectual property appears in my app   [No third-party intellectual property appears in our app]
 
+> [!WARNING]
+> Select an option according to the requirements of your app.
+
 <br>
 
 > Please select the statement that applies to you: *
 - [ ] I do not have any content locked behind a login wall.
 - [ ] I have content locked behind a login wall and have already provided Google with valid credentials to bypass this wall. We reserve the right to reject your app submission if the login wall could not be passed with reasonable efforts.
 - [ ] I have content locked behind a login wall and have not yet provided Google with valid credentials to bypass this wall.
+
+> [!WARNING]
+> Select an option according to the requirements of your app.
+
+<br><br>
 
 ## User Data, 3rd Party Code, and SDKs
 > What SDKs does your app use and why? *
