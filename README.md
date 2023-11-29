@@ -29,6 +29,11 @@ Language-based functionality: Our app supports over ten languages, and we've des
 
 In both cases, we prioritize user privacy and security by adhering to Google's policies related to location services and sensitive data management.
 ```
+> [!NOTE]
+> This should be written according to the functionality of your app. An example is given above
+
+<be>
+<br>
 <br>
 
 > Have you uploaded all Proof of Permission for any intellectual property that appears in your app? *
@@ -52,6 +57,11 @@ In our app, we use several SDKs to enhance functionality and improve the user ex
 
 2. Volley: We use this for network data processing and transmission. It's a google library that makes networking for Android apps easier and most importantly, faster.
 ```
+> [!NOTE]
+> This should be written according to the functionality of your app. An example is given above
+
+<be>
+<br>
 <br>
 
 > Explain how you ensure that any 3rd party code and SDKs used in your app comply with our policies. *
@@ -72,4 +82,11 @@ Transparency and Documentation: Keeping precise records of policy compliance for
 
 By implementing these measures, we are confident that our use of third-party codes and SDKs in the 'Your App Name' app is in full compliance with Google's policies.
 ```
+
+> [!NOTE]
+> This should be written according to the functionality of your app. An example is given above
+
+<be>
+<br>
+<br>
 
