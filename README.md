@@ -91,6 +91,40 @@ In our app, we use several SDKs to enhance functionality and improve the user ex
 
 2. Volley: We use this for network data processing and transmission. It's a google library that makes networking for Android apps easier and most importantly, faster.
 ```
+
+Example of other libraries you can use it:
+```
+Our app utilizes several SDKs to enhance its functionality and provide a seamless user experience. Here is a list of the key SDKs and their purposes:
+
+1. Firebase BOM (com.google.firebase:firebase-bom:32.6.0):
+Used to manage Firebase dependencies and ensure compatibility between different Firebase components.
+
+2. Firebase Messaging (com.google.firebase:firebase-messaging):
+Used for push notifications, enabling real-time communication with users and enhancing user engagement.
+
+3. Picasso (com.squareup.picasso:picasso:2.71828):
+Employed for efficient and hassle-free image loading, contributing to a smoother user interface.
+
+4. Neumorphism Library (com.github.fornewid:neumorphism:0.2.1):
+Implemented to achieve a neumorphic design, enhancing the visual appeal and user experience of the app.
+
+5. Image Slideshow Library (com.github.denzcoskun:ImageSlideshow:0.1.0):
+Utilized for creating image slideshows, providing an interactive and dynamic way to present visual content.
+
+6. Lottie Animation (com.airbnb.android:lottie:3.4.1):
+Integrated for seamless and eye-catching animations, contributing to a more engaging user interface.
+
+7. Volley (com.android.volley:volley:1.2.1):
+Employed for efficient and convenient handling of network requests, ensuring smooth communication with servers.
+
+8. Circle ImageView (de.hdodenhof:circleimageview:3.1.0):
+Utilized to display circular images in the app, enhancing the visual presentation of user profile pictures.
+
+9. MotionToast (com.github.Spikeysanju:MotionToast:1.0):
+Integrated for customized and visually appealing toast messages, providing informative feedback to users.
+
+Each of these SDKs plays a crucial role in enhancing different aspects of our app, contributing to its overall functionality, aesthetics, and user engagement.
+```
 > [!NOTE]
 > This should be written according to the functionality of your app. An example is given above
 
